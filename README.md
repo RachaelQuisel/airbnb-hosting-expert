@@ -22,6 +22,16 @@ Start with one of the existing prompts:
 
 The assistant asks for details that affect the answer and then returns a draft or short action list. It does not promise higher ratings, bookings, or revenue.
 
+## Example from my own listing
+
+I ran the plugin on my [La Maison listing](https://www.airbnb.com/rooms/9131840) in downtown Santa Barbara. It recommended a new photo order, a more specific title, shorter room descriptions, and clearer sleeping arrangements. It also drafted a new opening paragraph.
+
+Its first recommendation was:
+
+> **La Maison’s biggest opportunity is its first impression:** bring the hot tub, space for gathering, and downtown location forward.
+
+[Read the full output, including all six recommendations and the suggested listing copy.](examples/la-maison-listing-review.md)
+
 ## Access and limits
 
 This package contains skills, reference text, and an icon. It includes no MCP server, Airbnb account connection, executable scripts, hooks, booking tools, or messaging service. It cannot inspect a private reservation or change an Airbnb account on its own. Browsing requires the host application's tools. Advice and drafting do not authorize external actions.
@@ -38,7 +48,8 @@ Airbnb Hosting Expert is an independent third-party assistant and is not endorse
 - [Current plugin](https://chatgpt.com/plugins/plugin_c92d5838e8888191a91d00efe93ef5cd)
 - [Download the 0.2.3 package](dist/airbnb-hosting-expert-0.2.3.zip)
 - [Publisher readiness and remaining items](docs/publisher-readiness.md)
+- [La Maison listing-review example](examples/la-maison-listing-review.md)
 - [Changelog](CHANGELOG.md)
 - [Third-party branding](THIRD_PARTY_NOTICES.md)
 
-The source at the repository root uses the Agent Plugins format, with a Codex compatibility manifest. The downloadable ZIP matches the private plugin release's source and icon. Public directory submission and live hosting-workflow testing remain pending.
+The source at the repository root uses the Agent Plugins format, with a Codex compatibility manifest. The downloadable ZIP matches the private plugin release's source and icon. The La Maison example documents one publisher-reported listing review. Public directory submission and testing of the other hosting workflows remain pending.

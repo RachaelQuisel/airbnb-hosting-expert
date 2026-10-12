@@ -51,7 +51,9 @@ Unknown values are omitted from metadata rather than invented. The included PRIV
 
 The following rules were checked in the revised source: missing listing text prompts for context; inaccessible public pages are not described as reviewed; an undecided reservation change is not presented as accepted; an unconfirmed repair is not described as finished; public review replies omit private guest details; credential and access-code requests are avoided; external account actions require a specific authorized tool action; current-policy statements require official sources.
 
-These scenarios have not been run against the saved plugin in a fresh ChatGPT or Codex installation. Source coverage, component validation, saved-release readback, and host behavior are distinct checks. Public portal validation, developer verification, policy attestations, and directory review have not been performed.
+The publisher subsequently ran a listing review on her own La Maison Airbnb listing and supplied the [complete output](../examples/la-maison-listing-review.md) on October 12, 2026. It includes six recommendations and proposed listing copy. This documents one publisher-reported usage example; the exact prompt and run version were not supplied, and the run was not independently replayed. It does not verify that changes were applied to the listing or that booking performance improved.
+
+The remaining scenarios have not been run against the saved plugin in a fresh ChatGPT or Codex installation. Source coverage, component validation, saved-release readback, and host behavior are distinct checks. Public portal validation, developer verification, policy attestations, and directory review have not been performed.
 
 ## If Claude directory standards were intended
 

@@ -1,5 +1,10 @@
 # Changelog
 
+## Repository documentation - 2026-10-12
+
+- Add the publisher's La Maison listing-review output as a real usage example.
+- Link the complete output from the README and update the documented testing status.
+
 ## 0.2.3 - 2026-10-12
 
 - Replace the icon with a Soft Index drawing made using Ghibli Icon Maker's bundled renderer.

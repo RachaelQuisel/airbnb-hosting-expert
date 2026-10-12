@@ -1,0 +1,4 @@
+interface:
+  display_name: Airbnb Hosting Expert
+  short_description: Hosting tips and guest drafts
+  default_prompt: How can I improve my Airbnb listing?

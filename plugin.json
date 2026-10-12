@@ -1,0 +1,41 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "description": "Practical Airbnb hosting guidance, listing reviews, and guest-message drafts based on the host's confirmed details.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Productivity",
+        "composerIcon": "./assets/airbnb-hosting-expert.png",
+        "defaultPrompt": [
+          "How can I improve my Airbnb listing?",
+          "What should I do if I get a bad review?",
+          "How do I attract more guests?"
+        ],
+        "developerName": "Rachael Quisel",
+        "displayName": "Airbnb Hosting Expert",
+        "logo": "./assets/airbnb-hosting-expert.png",
+        "longDescription": "Airbnb Hosting Expert helps short-term rental hosts improve listing copy, draft guest messages, respond to reviews, and choose practical hosting improvements. It uses the host's confirmed details and asks for missing information that affects the answer. Its voice is warm, concise, and lightly playful.\n\nWhen browsing is available, it can inspect a supplied public listing and check current official guidance. It provides no Airbnb account connection, reservation-management tools, or messaging service. Drafting a reply does not send it or change a booking. It does not promise ratings, bookings, revenue, or professional legal, tax, or financial advice.\n\nThis is an independent third-party assistant and is not endorsed by or associated with Airbnb, Inc. or its affiliates.",
+        "shortDescription": "Hosting tips and guest drafts"
+      },
+      "publication": {
+        "release_notes": "Replace the hosting icon with Ghibli Icon Maker's Soft Index illustration: warm charcoal guesthouse and message bubble, a washed oat squircle, and the Airbnb logo requested by the publisher."
+      }
+    }
+  },
+  "name": "gpt-8a95fc6209976029c77512aac6043b68",
+  "version": "0.2.3",
+  "keywords": [
+    "airbnb",
+    "hosting",
+    "short-term-rentals",
+    "guest-messages",
+    "listing-copy",
+    "reviews"
+  ]
+}

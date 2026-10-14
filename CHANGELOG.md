@@ -1,5 +1,11 @@
 # Changelog
 
+## Video and website documentation - 2026-10-13
+
+- Add the approved 28-second animation and matching poster.
+- Feature the video and live My Work page in the README.
+- Document the website card, playback behavior, and verified Vercel publication.
+
 ## Repository documentation - 2026-10-12
 
 - Add the publisher's La Maison listing-review output as a real usage example.

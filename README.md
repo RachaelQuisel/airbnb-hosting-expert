@@ -22,6 +22,14 @@ Start with one of the existing prompts:
 
 The assistant asks for details that affect the answer and then returns a draft or short action list. It does not promise higher ratings, bookings, or revenue.
 
+## Watch it work
+
+[![Airbnb Hosting Expert animation](assets/airbnb-hosting-expert-video-poster.webp)](assets/airbnb-hosting-expert-1920x1080.mp4)
+
+Run Airbnb Hosting Expert to get a clearer title and description for your listing. Copy and paste the finished text into Airbnb.
+
+[Watch on AirbnbAI](https://airbnbai.rent/automate.html#airbnb-hosting-expert) · [Download the video](assets/airbnb-hosting-expert-1920x1080.mp4) · [Video and website documentation](docs/video-showcase.md)
+
 ## Example from my own listing
 
 I ran the plugin on my [La Maison listing](https://www.airbnb.com/rooms/9131840) in downtown Santa Barbara. It recommended a new photo order, a more specific title, shorter room descriptions, and clearer sleeping arrangements. It also drafted a new opening paragraph.

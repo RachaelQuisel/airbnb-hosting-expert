@@ -36,8 +36,8 @@ The full-size icon and 128-pixel and 48-pixel thumbnails were visually reviewed 
 
 | Item | Current state | Needed next |
 | --- | --- | --- |
-| Public plugin website | No URL in source | A public page identifying the plugin, purpose, and publisher |
-| Support | No URL in source | A public page with a working help or contact route |
+| Public plugin website | [Public showcase on AirbnbAI](https://airbnbai.rent/automate.html#airbnb-hosting-expert) | Use the confirmed URL in submission metadata |
+| Support | [Published contact form](https://airbnbai.rent/?topic=airbnb-hosting-expert#contact) | Confirm the publisher can access submissions and select the support URL for submission metadata |
 | Privacy policy | No URL in source | Confirm actual publisher practices and publish an applicable policy |
 | Terms of service | No URL in source | Confirm applicable terms and publish them |
 | Publisher verification | Existing package says Rachael Quisel | Confirm the intended verified publisher; the package name does not prove verification |
@@ -45,7 +45,7 @@ The full-size icon and 128-pixel and 48-pixel thumbnails were visually reviewed 
 | Commerce | Unspecified | Confirm whether the plugin involves payments or purchases and, if so, what and where |
 | Intended directory | Existing OpenAI/Codex package used | Confirm if Claude or both directories were intended |
 
-Unknown values are omitted from metadata rather than invented. The included PRIVACY.md describes the inspected package and is not a published privacy policy. No website or legal-policy page has been published by this preparation.
+Unknown values are omitted from metadata rather than invented. The included PRIVACY.md describes the inspected package and is not a published privacy policy. The public video showcase and contact route are now published on AirbnbAI; plugin-specific legal-policy pages remain unpublished. See [video and website documentation](video-showcase.md) for the publication checks.
 
 ## Behavioral verification limits
 

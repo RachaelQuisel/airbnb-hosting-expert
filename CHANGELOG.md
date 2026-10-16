@@ -1,5 +1,11 @@
 # Changelog
 
+## Cloud speed correction - 2026-10-16
+
+- Match the other seven videos with steady clouds moving at 280 pixels per second.
+- Change only the clouds; preserve the painted property, listing copy, scenes, and timing.
+- Verify the encoded cloud speed and unchanged non-cloud scenes.
+
 ## Video artwork and cloud motion - 2026-10-16
 
 - Replace the existing video and poster in place with cohesive painted property artwork.

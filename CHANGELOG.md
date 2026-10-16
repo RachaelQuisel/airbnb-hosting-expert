@@ -1,5 +1,12 @@
 # Changelog
 
+## Video artwork and cloud motion - 2026-10-16
+
+- Replace the existing video and poster in place with cohesive painted property artwork.
+- Animate three separate clouds over a fixed landscape and smooth the loop boundary.
+- Add decoded motion, fixed-landscape, loop, frame-count, and full-decode checks.
+- Preserve the approved 28-second story, plugin name, Airbnb logo, copy, and public filename.
+
 ## Video and website documentation - 2026-10-13
 
 - Add the approved 28-second animation and matching poster.

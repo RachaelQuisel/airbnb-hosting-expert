@@ -1,0 +1,42 @@
+{
+  "checks": {
+    "fullDecode": true,
+    "resolution": true,
+    "duration": true,
+    "frameRate": true,
+    "allFrames": true,
+    "silent": true
+  },
+  "motionChecks": {
+    "skyChanges": true,
+    "landStaysFixed": true,
+    "cloudsMove": true,
+    "periodicClouds": true,
+    "seamlessLoop": true
+  },
+  "sky": {
+    "mean": 9.387658333333668,
+    "changedPercent": 26.443749999999998
+  },
+  "land": {
+    "mean": 0.016037037037037037,
+    "changedPercent": 0
+  },
+  "loop": {
+    "mean": 1.3436948624006133,
+    "changedPercent": 2.6576003086419755
+  },
+  "cloudDisplacements": [
+    179.82124096764684,
+    164.07177959952037,
+    74.63886613485761
+  ],
+  "cloudLoopError": 5.684341886080802e-14,
+  "seconds": 28,
+  "frames": 840,
+  "width": 1920,
+  "height": 1080,
+  "bytes": 3312715,
+  "sha256": "80036d6b6cd57ce574b6eeec0629867e466792698f76af34685b5f37d3463706",
+  "final": "airbnb-hosting-expert/assets/airbnb-hosting-expert-1920x1080.mp4"
+}

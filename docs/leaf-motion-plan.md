@@ -1,6 +1,6 @@
 # Airbnb Hosting Expert leaf-motion correction
 
-**Overall Progress:** `67%`
+**Overall Progress:** `100%`
 
 ## Goal and evidence
 
@@ -43,9 +43,9 @@ Initial draft: adjust petal paths, rerender the existing video, and publish it.
   - Require a full 840-frame, 28-second, 1920×1080, 30fps silent decode. Track the encoded new petals near the reference lateral speed; confirm changing vertical direction; check no visible coordinate jumps and the end/start crossfade. Confirm only particle-function visual code changed, all source art is identical, and clouds still measure about 280 px/s. Inspect reference/new motion frames and a browser preview. Save a structured verification record.
 - [x] 🟩 **4. Audit and fix substantiated mistakes**
   - Apply the Mistakes skill to this correction and relevant prior matching claims. Pass evidence to the bundled Fix Mistakes skill. Repair any actual in-scope defect, rerun affected checks, and preserve failed-run evidence. Do not invent faults or expand into unrelated site/plugin work.
-- [ ] 🟨 **5. Publish and verify the existing video**
+- [x] 🟩 **5. Publish and verify the existing video**
   - Replace the existing site/plugin MP4 and posters only after checks pass. Refresh hash query strings. Update plugin `CHANGELOG.md`, `docs/video-showcase.md`, `docs/video-verification.json`, `examples/website-card.html`, and add the final plan, leaf verification, and post-run report under `docs/`. Run website tests, push both existing repos, and verify Vercel production, exact live bytes/URLs, one Hosting Expert card, range support, and actual playback. Record commits and a screenshot. If the report needs its final deployment identifiers, make one documentation-only follow-up commit.
-- [ ] 🟥 **6. Deliver the post-run report**
+- [x] 🟩 **6. Deliver the post-run report**
   - Reconcile every task with observed evidence, record original and revised rubric grades, list findings with their required fields and repair outcomes, include file sizes/hashes/commits, and deliver the current local video plus live page and report. Mark 100% only after publication and all required verification are complete.
 
 ## Planned artifacts

@@ -2,7 +2,7 @@
 
 Date: October 24, 2026, America/Los_Angeles.
 
-The website replacement is published and independently verified. The plugin repository media update and final tracker reconciliation are in progress; final GitHub records will be appended before delivery.
+**Complete:** the corrected video is published on My Work and in the existing plugin repository. Production bytes, playback, source scope, tests, and repository readbacks are verified. The plan and post-run audit/repair workflow are complete.
 
 ## Result and scope
 
@@ -61,3 +61,14 @@ Reference motion is estimated from compressed video. The original renderers for 
 - The Vercel connector could not read this team scope (HTTP 403). This was a metadata-access constraint; no new account access was granted. The already authorized CLI confirmed Ready, and independent live HTTP and browser checks confirmed delivery. The failed connector check remains in the execution log.
 
 No additional render or scope defect was found in the post-change audit. The rejected detector estimates and the connector-access failure are retained; neither is represented as a successful check.
+
+## GitHub delivery and final handoff
+
+- Website: [8f5a8ee](https://github.com/RachaelQuisel/airbnbai/commit/8f5a8ee2666d218fa47816f71a6cf864c31d91b9). The change is limited to the existing MP4, poster, and their query versions in `automate.html`.
+- Plugin media and evidence: [cd338a8](https://github.com/RachaelQuisel/airbnb-hosting-expert/commit/cd338a8856337dd97592fd114d789aeb73c2c6f8). The current README keeps the accepted La Maison title. The hosting instructions, manifest, and 0.2.3 ZIP are unchanged.
+- Both artifact commits were pushed to their existing main branches and read back. The final plan/report reconciliation is delivered in a documentation-only follow-up commit; its SHA is intentionally not embedded inside its own contents.
+- [Live My Work card](https://airbnbai.rent/automate.html#airbnb-hosting-expert).
+- [Current video](https://airbnbai.rent/assets/airbnb-hosting-expert-1920x1080.mp4?v=a9545870).
+- [Plugin repository](https://github.com/RachaelQuisel/airbnb-hosting-expert).
+
+**Repair status:** the substantiated particle-motion mismatch is fixed and verified locally and in production. No required work remains.

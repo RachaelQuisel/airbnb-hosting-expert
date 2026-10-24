@@ -1,4 +1,5 @@
 {
+  "verifiedAt": "2026-10-24T15:45:32.704Z",
   "checks": {
     "fullDecode": true,
     "resolution": true,
@@ -7,114 +8,36 @@
     "allFrames": true,
     "silent": true
   },
-  "motionChecks": {
-    "skyChanges": true,
-    "landStaysFixed": true,
-    "cloudsMove": true,
-    "periodicClouds": true,
-    "seamlessLoop": true
-  },
   "scopeChecks": {
-    "onlyCloudRendererChanged": true,
-    "otherScenesUnchanged": true
+    "onlyParticleFunctionChanged": true,
+    "particleShapesColorsCountPreserved": true,
+    "nonParticleScenesPreserved": true
   },
-  "unchangedScenes": [
-    {
-      "time": 5.6,
-      "mean": 0.2963463764241028,
-      "changedPercent": 0.046274038461538464
-    },
-    {
-      "time": 9,
-      "mean": 0.22302550747854172,
-      "changedPercent": 0.03659188034188034
-    },
-    {
-      "time": 17,
-      "mean": 0.3326862980767585,
-      "changedPercent": 0.03532318376068376
-    },
-    {
-      "time": 25.3,
-      "mean": 0.42866430733662153,
-      "changedPercent": 0.10102831196581197
-    }
-  ],
-  "sky": {
-    "mean": 13.09539305555446,
-    "changedPercent": 33.50666666666667
+  "motionChecks": {
+    "encodedSpeedMatchesSeries": true,
+    "encodedVerticalFlutter": true,
+    "noVisibleCoordinateJumps": true,
+    "recyclesOnlyOffscreen": true,
+    "existingLoopPasses": true,
+    "cloudSpeedPreserved": true
   },
-  "land": {
-    "mean": 0.04288888888888885,
-    "changedPercent": 0
-  },
-  "loop": {
-    "mean": 1.3677552726379634,
-    "changedPercent": 2.6879340277777777
-  },
-  "cloudDisplacements": [
-    840,
-    1120,
-    840
-  ],
-  "cloudLoopError": 0,
-  "cloudSpeedPixelsPerSecond": 280,
   "seconds": 28,
   "frames": 840,
   "width": 1920,
   "height": 1080,
-  "bytes": 3905947,
-  "sha256": "3ecd2911d6d96e36bc1d52278b5a1328d461b8e664f8fffb7388ce3e4ab71447",
-  "final": "airbnb-hosting-expert/assets/airbnb-hosting-expert-1920x1080.mp4",
-  "encodedCloudSpeedComparison": [
-    {
-      "name": "cleaner-job-texts",
-      "displacementPx": 138,
-      "pixelsPerSecond": 276,
-      "correlation": 0.9839640375586836
-    },
-    {
-      "name": "cleaning-calendar",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9987768619632628
-    },
-    {
-      "name": "tax-prep",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9988329088660631
-    },
-    {
-      "name": "guest-door-codes",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9984871255205872
-    },
-    {
-      "name": "property-inspection",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9987847499747691
-    },
-    {
-      "name": "booking-sync",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9988178911618844
-    },
-    {
-      "name": "ops-today",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9988350090206363
-    },
-    {
-      "name": "airbnb-hosting-expert",
-      "displacementPx": 140,
-      "pixelsPerSecond": 280,
-      "correlation": 0.9981432951883739
-    }
-  ],
-  "cloudSpeedMeasurement": "Horizontal correlation of decoded sky, 0.5 to 1.0 seconds; 1920px source width"
+  "bytes": 4177781,
+  "sha256": "a95458706ea6ec4fce414cde515a7d3bc3525447344b2282afa6c189a8ee3697",
+  "clouds": {
+    "pixelsPerSecond": 280,
+    "correlation": 0.9983069823592194
+  },
+  "petals": {
+    "stableTracks": 2,
+    "medianDx": 193.82857142857142,
+    "medianDy": -18.40000000000009,
+    "medianSpin": 1.1382962640839307,
+    "minEncodedVerticalSpeed": -31.692307692307622,
+    "maxEncodedVerticalSpeed": 20
+  },
+  "detail": "leaf-motion-verification.json"
 }

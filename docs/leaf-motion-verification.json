@@ -1,0 +1,152 @@
+{
+  "verifiedAt": "2026-10-24T15:45:32.704Z",
+  "exportChecks": {
+    "fullDecode": true,
+    "resolution": true,
+    "duration": true,
+    "frameRate": true,
+    "allFrames": true,
+    "silent": true
+  },
+  "scopeChecks": {
+    "onlyParticleFunctionChanged": true,
+    "particleShapesColorsCountPreserved": true,
+    "nonParticleScenesPreserved": true
+  },
+  "motionChecks": {
+    "encodedSpeedMatchesSeries": true,
+    "encodedVerticalFlutter": true,
+    "noVisibleCoordinateJumps": true,
+    "recyclesOnlyOffscreen": true,
+    "existingLoopPasses": true,
+    "cloudSpeedPreserved": true
+  },
+  "referenceMotion": [
+    {
+      "name": "cleaner-job-texts",
+      "stableTracks": 4,
+      "medianDx": 188.64335664335658,
+      "medianDy": 11.466666666666697,
+      "medianSpin": 1.163192336377911
+    },
+    {
+      "name": "cleaning-calendar",
+      "stableTracks": 6,
+      "medianDx": 198.24598930481307,
+      "medianDy": 14,
+      "medianSpin": 1.2588935138586388
+    },
+    {
+      "name": "tax-prep",
+      "stableTracks": 5,
+      "medianDx": 199.15789473684208,
+      "medianDy": 33.9878787878788,
+      "medianSpin": 0.9568218666949213
+    },
+    {
+      "name": "guest-door-codes",
+      "stableTracks": 5,
+      "medianDx": 191.35353535353522,
+      "medianDy": 16.633333333333212,
+      "medianSpin": 1.0903932387397028
+    },
+    {
+      "name": "property-inspection",
+      "stableTracks": 4,
+      "medianDx": 191.54285714285743,
+      "medianDy": 30,
+      "medianSpin": 1.233929501217336
+    },
+    {
+      "name": "booking-sync",
+      "stableTracks": 5,
+      "medianDx": 193.60000000000002,
+      "medianDy": 17.647058823529505,
+      "medianSpin": 0.8458033449221047
+    },
+    {
+      "name": "ops-today",
+      "stableTracks": 5,
+      "medianDx": 197.33333333333337,
+      "medianDy": 21.199999999999818,
+      "medianSpin": 1.1502775312031042
+    }
+  ],
+  "beforeMotion": {
+    "medianDx": 23.268817204301,
+    "medianDy": 32,
+    "medianSpin": 0.7829679600822972
+  },
+  "afterMotion": {
+    "stableTracks": 2,
+    "medianDx": 193.82857142857142,
+    "medianDy": -18.40000000000009,
+    "medianSpin": 1.1382962640839307,
+    "minEncodedVerticalSpeed": -31.692307692307622,
+    "maxEncodedVerticalSpeed": 20
+  },
+  "particles": {
+    "count": 10,
+    "horizontalSpeed": 192,
+    "maxVisibleStep": 6.489982987414778,
+    "offscreenRecycles": 27,
+    "upFrameSamples": 4160,
+    "downFrameSamples": 4162
+  },
+  "sceneChecks": [
+    {
+      "time": 1.2,
+      "mean": 0.6111610999616361,
+      "changedPercent": 0.1310599351657012,
+      "comparedPixels": 1969328
+    },
+    {
+      "time": 5.6,
+      "mean": 0.49352557112658807,
+      "changedPercent": 0.07569096561569093,
+      "comparedPixels": 1969852
+    },
+    {
+      "time": 9,
+      "mean": 0.2988848705572206,
+      "changedPercent": 0.02171933733131908,
+      "comparedPixels": 1965990
+    },
+    {
+      "time": 17,
+      "mean": 0.40641324549815633,
+      "changedPercent": 0.052630106963700476,
+      "comparedPixels": 1966555
+    },
+    {
+      "time": 23.3,
+      "mean": 0.6365135721413447,
+      "changedPercent": 0.17498354768733293,
+      "comparedPixels": 1969328
+    },
+    {
+      "time": 25.3,
+      "mean": 0.39701092342104727,
+      "changedPercent": 0.12476685752449523,
+      "comparedPixels": 1964464
+    }
+  ],
+  "loop": {
+    "mean": 1.3579026813311974,
+    "changedPercent": 2.6412519290123457,
+    "comparedPixels": 2073600
+  },
+  "clouds": {
+    "pixelsPerSecond": 280,
+    "correlation": 0.9983069823592194
+  },
+  "seconds": 28,
+  "frames": 840,
+  "width": 1920,
+  "height": 1080,
+  "bytes": 4177781,
+  "sha256": "a95458706ea6ec4fce414cde515a7d3bc3525447344b2282afa6c189a8ee3697",
+  "rendererSha256": "c0a4375816f632d482f41d4fa211cee3a65bd7fa37e0f9e67379ddfe2e1b76ea",
+  "baselineSha256": "3ecd2911d6d96e36bc1d52278b5a1328d461b8e664f8fffb7388ce3e4ab71447",
+  "limits": "Reference motion is estimated from decoded colored components; the original reference renderers were unavailable. Frame differences outside particle masks include H.264 encoding noise."
+}

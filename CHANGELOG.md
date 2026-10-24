@@ -1,5 +1,11 @@
 # Changelog
 
+## Leaf and petal motion correction - 2026-10-24
+
+- Match the series with fast sideways particle drift, vertical flutter, and tumbling.
+- Remove visible vertical recycling while retaining the existing particle artwork and approved video.
+- Add decoded motion, particle-only scope, continuity, and publication verification.
+
 ## Cloud speed correction - 2026-10-16
 
 - Match the other seven videos with steady clouds moving at 280 pixels per second.

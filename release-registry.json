@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/airbnb-hosting-expert",
+  "packages": [
+    {
+      "name": "gpt-8a95fc6209976029c77512aac6043b68",
+      "root": ".",
+      "version": "2.3.3",
+      "manifests": [
+        "plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "skills": [
+        "skills/instructions/SKILL.md"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "path": "skills/instructions/SKILL.md",
+      "version": "2.3.3",
+      "sha256": "a807bde09448462acf9b4d5fa63cab755072c7724790155c00810a864eb2d142",
+      "source": "skills/instructions/SKILL.md",
+      "guide": "skills/instructions/README.md"
+    }
+  ],
+  "copies": []
+}

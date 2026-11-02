@@ -24,7 +24,7 @@
     }
   },
   "name": "gpt-8a95fc6209976029c77512aac6043b68",
-  "version": "2.3.0",
+  "version": "2.3.3",
   "description": "Practical Airbnb hosting guidance, listing reviews, and guest-message drafts based on the host's confirmed details.",
   "author": {
     "name": "Rachael Quisel"

@@ -2,7 +2,7 @@
 
 <img src="assets/airbnb-hosting-expert.png" alt="Airbnb Hosting Expert icon" width="180" />
 
-Current package version: **0.2.3**.
+Current package version: **2.3.0**.
 
 A La Maison plugin by Rachael Quisel for short-term rental hosts who want clearer listings, useful guest messages, and practical hosting improvements.
 
@@ -54,7 +54,7 @@ Airbnb Hosting Expert is an independent third-party assistant and is not endorse
 ## Package and documentation
 
 - [Current plugin](https://chatgpt.com/plugins/plugin_c92d5838e8888191a91d00efe93ef5cd)
-- [Download the 0.2.3 package](dist/airbnb-hosting-expert-0.2.3.zip)
+- [Download the 2.3.0 package](dist/airbnb-hosting-expert-2.3.0.zip)
 - [Publisher readiness and remaining items](docs/publisher-readiness.md)
 - [La Maison listing-review example](examples/la-maison-listing-review.md)
 - [Changelog](CHANGELOG.md)

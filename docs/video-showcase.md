@@ -31,7 +31,7 @@ The original October 13 website update was pushed to the separate AirbnbAI site 
 
 Verification confirmed that the live page, contact topic, video, and poster match the published files. The video plays on the production page and supports byte-range requests. All 11 existing website checks passed.
 
-These repository additions document the video and website publication. The plugin package remains version 0.2.3.
+These repository additions document the video and website publication. The plugin package was version 0.2.3 at that publication; the current package is version 2.3.0.
 
 ## October 16 visual and motion update
 

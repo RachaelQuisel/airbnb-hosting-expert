@@ -2,7 +2,9 @@
 
 Prepared October 12, 2026, for the existing private OpenAI/Codex plugin. Public submission remains incomplete. This document reports source and package checks, not approval by a directory.
 
-Version 0.2.3 was saved to [the existing plugin](https://chatgpt.com/plugins/plugin_c92d5838e8888191a91d00efe93ef5cd) as private release pluginrel_6acd4ea758c88191b4817175acf2dc0a. Source readback and a downloaded copy of that saved release match the exported text and new icon bytes. The previous icon is absent from the current saved file inventory and archive. The current icon includes the official Airbnb mark at the publisher's request; the publisher confirmed written permission in this chat. The downloadable ZIP includes the backend-synchronized Codex compatibility metadata.
+The current package is **2.3.0**, saved on November 2, 2026 to [the existing plugin](https://chatgpt.com/plugins/plugin_c92d5838e8888191a91d00efe93ef5cd) as private release `pluginrel_6ae8e8bae460819189586325c3b316ac`. Both manifests and the saved version were read back as 2.3.0. The version update preserves the hosting instructions, starter prompts, and icon. [Download the current package](../dist/airbnb-hosting-expert-2.3.0.zip).
+
+Version 0.2.3 was the earlier icon release, saved as private release pluginrel_6acd4ea758c88191b4817175acf2dc0a. Source readback and a downloaded copy of that release matched the exported text and icon bytes. The previous icon was absent from that saved file inventory and archive. The downloadable package includes the backend-synchronized Codex compatibility metadata.
 
 ## Current icon update in version 0.2.3
 

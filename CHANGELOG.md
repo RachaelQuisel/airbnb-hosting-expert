@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.3.0 - 2026-11-02
+
+- Update both package manifests and the downloadable package to version 2.3.0.
+- Preserve the hosting instructions, starter prompts, icon, and video.
+
 ## Leaf and petal motion correction - 2026-10-24
 
 - Match the series with fast sideways particle drift, vertical flutter, and tumbling.

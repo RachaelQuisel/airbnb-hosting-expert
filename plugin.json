@@ -24,12 +24,12 @@
         "shortDescription": "Hosting tips and guest drafts"
       },
       "publication": {
-        "release_notes": "Replace the hosting icon with Ghibli Icon Maker's Soft Index illustration: warm charcoal guesthouse and message bubble, a washed oat squircle, and the Airbnb logo requested by the publisher."
+        "release_notes": "Update the package version to 2.3.0. Hosting instructions, prompts, icon, and integrations are unchanged."
       }
     }
   },
   "name": "gpt-8a95fc6209976029c77512aac6043b68",
-  "version": "0.2.3",
+  "version": "2.3.0",
   "keywords": [
     "airbnb",
     "hosting",

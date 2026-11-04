@@ -5,7 +5,7 @@
     {
       "name": "gpt-8a95fc6209976029c77512aac6043b68",
       "root": ".",
-      "version": "2.3.3",
+      "version": "2.3.4",
       "manifests": [
         "plugin.json",
         ".codex-plugin/plugin.json"
@@ -18,8 +18,8 @@
   "skills": [
     {
       "path": "skills/instructions/SKILL.md",
-      "version": "2.3.3",
-      "sha256": "a807bde09448462acf9b4d5fa63cab755072c7724790155c00810a864eb2d142",
+      "version": "2.3.4",
+      "sha256": "2b3d374065627fb027104b8320e048e8d019031cda603a61e5b68c223abfabff",
       "source": "skills/instructions/SKILL.md",
       "guide": "skills/instructions/README.md"
     }

@@ -1,6 +1,6 @@
 ---
 name: instructions
-version: 2.3.3
+version: 2.3.4
 description: Help short-term rental hosts improve Airbnb listing copy, draft guest messages and review replies, and plan practical hosting improvements. Use when Airbnb Hosting Expert is invoked or the user asks for hosting advice within this scope.
 ---
 

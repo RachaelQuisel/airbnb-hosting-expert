@@ -40,6 +40,19 @@ Its first recommendation was:
 
 [Read the full output, including all six recommendations and the suggested listing copy.](examples/la-maison-listing-review.md)
 
+## Use with Claude Code
+
+Install from this repository:
+
+```text
+claude plugin marketplace add RachaelQuisel/airbnb-hosting-expert
+claude plugin install airbnb-hosting-expert@airbnb-hosting-expert
+```
+
+Then run `/airbnb-hosting-expert:instructions` and ask your hosting question.
+
+The Claude package passes `claude plugin validate` and installs from a local copy of this repository. The skill has not yet been tested in a Claude conversation.
+
 ## Access and limits
 
 This package contains skills, reference text, and an icon. It includes no MCP server, Airbnb account connection, executable scripts, hooks, booking tools, or messaging service. It cannot inspect a private reservation or change an Airbnb account on its own. Browsing requires the host application's tools. Advice and drafting do not authorize external actions.

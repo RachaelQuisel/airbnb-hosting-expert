@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "airbnb-hosting-expert",
+  "description": "Practical Airbnb hosting guidance, listing reviews, and guest-message drafts based on the host's confirmed details.",
+  "owner": {
+    "name": "Rachael Quisel"
+  },
+  "plugins": [
+    {
+      "name": "airbnb-hosting-expert",
+      "displayName": "Airbnb Hosting Expert",
+      "description": "Practical Airbnb hosting guidance, listing reviews, and guest-message drafts based on the host's confirmed details.",
+      "author": {
+        "name": "Rachael Quisel"
+      },
+      "repository": "https://github.com/RachaelQuisel/airbnb-hosting-expert",
+      "source": "./",
+      "keywords": [
+        "airbnb",
+        "hosting",
+        "short-term-rentals",
+        "guest-messages",
+        "listing-copy",
+        "reviews"
+      ]
+    }
+  ]
+}

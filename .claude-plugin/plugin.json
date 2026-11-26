@@ -1,0 +1,19 @@
+{
+  "name": "airbnb-hosting-expert",
+  "displayName": "Airbnb Hosting Expert",
+  "version": "2.3.4",
+  "description": "Practical Airbnb hosting guidance, listing reviews, and guest-message drafts based on the host's confirmed details.",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "repository": "https://github.com/RachaelQuisel/airbnb-hosting-expert",
+  "icon": "./assets/airbnb-hosting-expert.png",
+  "keywords": [
+    "airbnb",
+    "hosting",
+    "short-term-rentals",
+    "guest-messages",
+    "listing-copy",
+    "reviews"
+  ]
+}

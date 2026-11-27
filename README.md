@@ -2,7 +2,7 @@
 
 <img src="assets/airbnb-hosting-expert.png" alt="Airbnb Hosting Expert icon" width="180" />
 
-Current package version: **2.3.5**.
+Current package version in this repository: **2.3.5**. The downloadable ZIP linked below is still 2.3.0.
 
 A La Maison plugin by Rachael Quisel for short-term rental hosts who want clearer listings, useful guest messages, and practical hosting improvements.
 

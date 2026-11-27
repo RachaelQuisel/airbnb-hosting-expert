@@ -59,7 +59,7 @@ The remaining scenarios have not been run against the saved plugin in a fresh Ch
 
 ## If Claude directory standards were intended
 
-The existing OpenAI/Codex identity and format were preserved. A separate Claude package still needs a Claude manifest and marketplace manifest, a confirmed support location, and the publisher's license choice and corresponding LICENSE file. The current icon meets the Claude checklist's 1024 by 1024 target and observed size guidance. No Claude install or directory submission is claimed.
+The existing OpenAI/Codex identity and format were preserved. Version 2.3.5 adds a Claude manifest and marketplace manifest. A Claude directory submission still needs a confirmed support location, and the publisher's license choice and corresponding LICENSE file. The current icon meets the Claude checklist's 1024 by 1024 target and observed size guidance. The Claude package passed `claude plugin validate` and installed from a local copy of the repository. No run in a Claude conversation and no directory submission is claimed.
 
 ## Icon provenance
 

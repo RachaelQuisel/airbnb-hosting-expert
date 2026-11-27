@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.3.5 - 2026-11-27
+
+- Add a Claude Code manifest and marketplace file, so the plugin installs by name in Claude Code.
+- Give this packaging release its own version. The hosting instructions are unchanged.
+- The downloadable package in `dist/` is still 2.3.0.
+
 ## 2.3.0 - 2026-11-02
 
 - Update both package manifests and the downloadable package to version 2.3.0.

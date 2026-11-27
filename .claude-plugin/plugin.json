@@ -1,7 +1,7 @@
 {
   "name": "airbnb-hosting-expert",
   "displayName": "Airbnb Hosting Expert",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "Practical Airbnb hosting guidance, listing reviews, and guest-message drafts based on the host's confirmed details.",
   "author": {
     "name": "Rachael Quisel"

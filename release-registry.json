@@ -5,7 +5,7 @@
     {
       "name": "gpt-8a95fc6209976029c77512aac6043b68",
       "root": ".",
-      "version": "2.3.4",
+      "version": "2.3.5",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -19,8 +19,8 @@
   "skills": [
     {
       "path": "skills/instructions/SKILL.md",
-      "version": "2.3.4",
-      "sha256": "2b3d374065627fb027104b8320e048e8d019031cda603a61e5b68c223abfabff",
+      "version": "2.3.5",
+      "sha256": "d17f7afd8e46531780176c79dbf6635c2005c9fab60f50ae63c7b64bbbdf2476",
       "source": "skills/instructions/SKILL.md",
       "guide": "skills/instructions/README.md"
     }
